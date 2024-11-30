@@ -12,6 +12,7 @@ I'm Appu , a passionate self-taught developer from India. My passion for softwar
 - 😄 Pronouns: He/Him)
 - ⚡ Fun fact: I love to play games and watch movies
 
+
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/appujet)
 [![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff&style=for-the-badge)](sdipedit@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/appujet/)
@@ -104,37 +105,3 @@ I'm Appu , a passionate self-taught developer from India. My passion for softwar
 ![Github stats](https://github-readme-stats.vercel.app/api?username=mohammad-k13&theme=radical&show_icons=true&count_private=true&hide=issues) </td>
     </tr>
 </table>
-
-
-
-##My Projects
-<a href="https://github.com/mohammad-k13/flow-mate">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mohammad-k13&theme=react&repo=flow-mate" />
-</a>
-<a href="https://github.com/mohammad-k13/flowmate-discord-app">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mohammad-k13&theme=react&repo=flowmate-discord-app" />
-</a>
-
-<a>
-       <img alt="Vercel" src="https://avatars.githubusercontent.com/u/177513907?s=200&v=4" width="50" height="50" />
-</a>
- 
-**Organization Name** - [TradingQuizCo.](https://github.com/tradingquizco)
-
-<a href="https://github.com/tradingquizco/backend">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tradingquizco&theme=react&repo=backend&show_stars=true&show_forks=true" />
-</a>
-<a href="https://github.com/tradingquizco/user">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tradingquizco&theme=react&repo=user&show_stars=true&show_forks=true" />
-</a>
-
-<a href="https://github.com/tradingquizco/quizer">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tradingquizco&theme=react&repo=quizer&show_stars=true&show_forks=true" />
-</a>
-
-<a href="https://github.com/tradingquizco/main">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tradingquizco&theme=react&repo=main&show_stars=true&show_forks=true" />
-</a>
-
-
-
