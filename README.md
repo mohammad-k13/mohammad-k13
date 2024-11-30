@@ -101,12 +101,34 @@ I'm Appu , a passionate self-taught developer from India. My passion for softwar
 
 
 
-<h2> My Projects</h2>
+##My Projects
 <a href="https://github.com/mohammad-k13/flow-mate">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mohammad-k13&theme=react&repo=flow-mate" />
 </a>
 <a href="https://github.com/mohammad-k13/flowmate-discord-app">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mohammad-k13&theme=react&repo=flowmate-discord-app" />
 </a>
+
+<a>
+       <img alt="Vercel" src="https://avatars.githubusercontent.com/u/177513907?s=200&v=4" width="50" height="50" />
+</a>
+ 
+**Organization Name** - [TradingQuizCo.](https://github.com/tradingquizco)
+
+<a href="https://github.com/tradingquizco/backend">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tradingquizco&theme=react&repo=backend&show_stars=true&show_forks=true" />
+</a>
+<a href="https://github.com/tradingquizco/user">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tradingquizco&theme=react&repo=user&show_stars=true&show_forks=true" />
+</a>
+
+<a href="https://github.com/tradingquizco/quizer">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tradingquizco&theme=react&repo=quizer&show_stars=true&show_forks=true" />
+</a>
+
+<a href="https://github.com/tradingquizco/main">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tradingquizco&theme=react&repo=main&show_stars=true&show_forks=true" />
+</a>
+
 
 
