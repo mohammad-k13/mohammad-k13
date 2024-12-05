@@ -99,9 +99,9 @@ I'm Appu , a passionate self-taught developer from India. My passion for softwar
 <tr>
       <td>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammad-k13&theme=dark&layout=compact)](https://github.com/mohammad-k13)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammad-k13&theme=date_night&layout=compact)](https://github.com/mohammad-k13)
   <td>
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=mohammad-k13&theme=dark&show_icons=true&count_private=true&hide=issues) </td>
+![Github stats](https://github-readme-stats.vercel.app/api?username=mohammad-k13&theme=date_night&show_icons=true&count_private=true&hide=issues) </td>
     </tr>
 </table>
