@@ -8,7 +8,7 @@ I'm Appu , a passionate self-taught developer from India. My passion for softwar
 - 🌱 I’m currently learning React, Node.js, Express
 - 👯 I’m looking to collaborate on Open source projects
 - 💬 Ask me about anything
-- 📫 How to reach me: readme_13
+- 📫 How to reach me on Discord: readme_13
 - 😄 Pronouns: He/Him)
 - ⚡ Fun fact: I love to play games and watch movies
 
