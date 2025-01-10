@@ -2,15 +2,7 @@
 
 # Hi there 👋
 
-I'm Appu , a passionate self-taught developer from India. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
-
-- 🔭 I’m currently working on my personal projects
-- 🌱 I’m currently learning React, Node.js, Express
-- 👯 I’m looking to collaborate on Open source projects
-- 💬 Ask me about anything
-- 📫 How to reach me on Discord: readme_13
-- 😄 Pronouns: He/Him)
-- ⚡ Fun fact: I love to play games and watch movies
+Hi, I’m Mohammad, a frontend developer from Isfahan, Iran, with over five years of experience in building web applications. I specialize in Next.js and ShadCN, contributing to open-source projects and the Next.js community as a moderator and top contributor. I’m passionate about creating innovative platforms like Fuzzie and StreamBridge, and I’m always eager to explore new tools and improve my skills. In my free time, I enjoy anime, peaceful walks in parks, and diving into diverse music genres. Let’s connect and build something amazing!
 
 
 ### Languages:
