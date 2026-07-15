@@ -1,0 +1,21 @@
+{
+  "sections": [
+    {
+      "title": "{{username}}@github",
+      "fields": [
+        {
+          "key": "OS",
+          "value": "Windows 11"
+        },
+        {
+          "key": "IDE",
+          "value": "Cursor, VSCode"
+        },
+        {
+          "key": "Languages",
+          "value": "TypeScript, Python, Go"
+        }
+      ]
+    }
+  ]
+}
