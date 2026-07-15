@@ -1,21 +1,6 @@
 {
-  "sections": [
-    {
-      "title": "{{username}}@github",
-      "fields": [
-        {
-          "key": "OS",
-          "value": "Windows 11"
-        },
-        {
-          "key": "IDE",
-          "value": "Cursor, VSCode"
-        },
-        {
-          "key": "Languages",
-          "value": "TypeScript, Python, Go"
-        }
-      ]
-    }
-  ]
+  "image": "https://img.icons8.com/?size=100&id=11648&format=png&color=000000",
+  "coloredImage": true,
+  "removeBackground": true,
+  "imageScale": 1.5
 }
