@@ -17,26 +17,15 @@
       ]
     },
     {
-      "title": "- Development",
       "fields": [
-        { "key": "Role", "value": "Next.js & MCP Developer" },
         { "key": "Languages", "value": "TypeScript, JavaScript" },
-        { "key": "Framework", "value": "React, Next.js" },
-        { "key": "Runtime", "value": "Node.js, Bun" },
-        { "key": "Tools", "value": "VS Code, Git, Docker" }
+        { "key": "IDE", "value": "Word, Notepad" }
       ]
     },
     {
-      "title": "- Fun",
       "fields": [
-        {
-          "key": "Hobbies.Software",
-          "value": "Building AI Apps, Debugging at 2 AM, Open Source"
-        },
-        {
-          "key": "Hobbies.Hardware",
-          "value": "Mechanical Keyboards, Custom PCs, Tech Gadgets"
-        }
+        { "key": "Hobbies.Software", "value": "NextJs Developer, MCP Developer" },
+        { "key": "Hobbies.Hardware", "value": "Pen" }
       ]
     },
     {
@@ -51,22 +40,10 @@
   "stats": {
     "title": "- GitHub Stats",
     "rows": [
-      {
-        "left": { "key": "Repos", "value": "{{repos}}" },
-        "right": { "key": "Stars", "value": "{{stars}}" }
-      },
-      {
-        "left": { "key": "Following", "value": "{{following}}" },
-        "right": { "key": "Followers", "value": "{{followers}}" }
-      },
-      {
-        "left": { "key": "Commits", "value": "{{commits}}" },
-        "right": { "key": "Forks", "value": "{{forks}}" }
-      },
-      {
-        "left": { "key": "Issues", "value": "{{issues}}" },
-        "right": { "key": "Pull Requests", "value": "{{prs}}" }
-      },
+      { "left": { "key": "Repos", "value": "{{repos}}" }, "right": { "key": "Stars", "value": "{{stars}}" } },
+      { "left": { "key": "Following", "value": "{{following}}" }, "right": { "key": "Followers", "value": "{{followers}}" } },
+      { "left": { "key": "Commits", "value": "{{commits}}" }, "right": { "key": "Forks", "value": "{{forks}}" } },
+      { "left": { "key": "Issues", "value": "{{issues}}" }, "right": { "key": "Pull Requests", "value": "{{prs}}" } },
       "loc"
     ]
   }
