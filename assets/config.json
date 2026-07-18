@@ -18,15 +18,24 @@
     },
     {
       "fields": [
-        { "key": "Languages", "value": "TypeScript, JavaScript" },
-        { "key": "IDE", "value": "Word, Notepad" }
+         { "key": "Role", "value": "Next.js & MCP Developer" },
+  { "key": "Languages", "value": "TypeScript, JavaScript" },
+  { "key": "Framework", "value": "Next.js, React" },
+        {"key": "IDE", "value": "Paper, Word"},
+  { "key": "Tools", "value": "Pen" }
       ]
     },
     {
-      "fields": [
-        { "key": "Hobbies.Software", "value": "NextJs Developer, MCP Developer" },
-        { "key": "Hobbies.Hardware", "value": "Pen1" }
-      ]
+        "fields": [
+    {
+      "key": "Hobbies.Software",
+      "value": "Debugging at 2 AM, Convincing AI to Work, Breaking Production (Accidentally)"
+    },
+    {
+      "key": "Hobbies.Hardware",
+      "value": "Collecting Mechanical Keyboards, Untangling Cables, RGB Everything"
+    }
+  ]
     },
     {
       "title": "- Contact",
