@@ -18,9 +18,8 @@
     },
     {
       "fields": [
-         { "key": "Role", "value": "Next.js & MCP Developer" },
   { "key": "Languages", "value": "TypeScript, JavaScript" },
-  { "key": "Framework", "value": "Next.js, React" },
+  { "key": "Stack", "value": "Next.js, React.js, Node.js" },
         {"key": "IDE", "value": "Paper, Word"},
   { "key": "Tools", "value": "Pen" }
       ]
@@ -41,7 +40,6 @@
       "title": "- Contact",
       "fields": [
         { "key": "Email", "value": "mohammad.helloworl@gmail.com" },
-        { "key": "Twitter", "value": "https://x.com/readme_13" },
         { "key": "Telegram", "value": "https://t.me/mohammad_mk13" }
       ]
     }
