@@ -18,7 +18,7 @@
     },
     {
       "fields": [
-        { "key": "Languages", "value": "{{languages}}" },
+        { "key": "Languages", "value": "TypeScript, JavaScript" },
         { "key": "IDE", "value": "Word, Notepad" }
       ]
     },
