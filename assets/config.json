@@ -2,7 +2,7 @@
   "image": "https://raw.githubusercontent.com/mohammad-k13/mohammad-k13/main/assets/mohammad.png?v=2",
   "coloredImage": true,
   "removeBackground": false,
-  "imageScale": .9,
+  "imageScale": 1.1,
   "imageOffsetX": "10%",
   "imageOffsetY": "0%",
   "sections": [
